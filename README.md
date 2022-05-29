@@ -1,25 +1,11 @@
 Olá, seja bem vinda/o ao meu GitHub! 👋
-🌱 Estou aprendendo ReactJS.
-💛 Resiliente - Desenvolvimento Web Fullstack na Resilia Educação.
-⚡ Programando o futuro - Desenvolvimento Web Fullstack na Plataforma Impact. 
-👩‍💻 Descobrindo o mundo da programação e em busca de aprender novas linguagens.
-👩‍🎓 Também sou: Professor/Geógrafo.
 
-Contato
-Email:  iata.anderson15@gmail.com
 
-LinkedIn : https://www.linkedin.com/in/iata-mendon%C3%A7a/
-<!--
-**IataAnderson/IataAnderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou aprendendo ReactJS.
+- 💛 Resiliente - Desenvolvimento Web Fullstack na Resilia Educação.
+- ⚡ Programando o futuro - Desenvolvimento Web Fullstack na Plataforma Impact.
+- 👩‍💻 Descobrindo o mundo da programação e em busca de aprender novas linguagens.
+- 👨‍🏫 Também sou: Professor/Geógrafo.
+- 💬 Contate-me no email: iata.anderson15@gmail.com
+- 🔗 Meu linkedin: https://www.linkedin.com/in/iata-mendon%C3%A7a/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

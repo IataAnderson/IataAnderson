@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Contato
+Email:  iata.anderson15@gmail.com
+
+LinkedIn : https://www.linkedin.com/in/iata-mendon%C3%A7a/
 <!--
 **IataAnderson/IataAnderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,9 @@
-### Hi there 👋
+Olá, seja bem vinda/o ao meu GitHub! 👋
+🌱 Estou aprendendo ReactJS.
+💛 Resiliente - Desenvolvimento Web Fullstack na Resilia Educação.
+⚡ Programando o futuro - Desenvolvimento Web Fullstack na Plataforma Impact. 
+👩‍💻 Descobrindo o mundo da programação e em busca de aprender novas linguagens.
+👩‍🎓 Também sou: Professor/Geógrafo.
 
 Contato
 Email:  iata.anderson15@gmail.com
